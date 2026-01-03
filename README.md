@@ -6,7 +6,7 @@ This clone focuses on recreating the **layout, alignment, and visual structure**
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 YouTube is one of the most widely used video platforms in the world.  
 Building a clone of its homepage is a great exercise for learning how complex layouts are created using basic web technologies.
 In this project, I recreated:
@@ -19,17 +19,17 @@ The project is fully static and created only for **learning and practice purpose
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- ✔ YouTube-like header with logo, search bar, and action icons  
-- ✔ Sidebar layout similar to YouTube navigation  
-- ✔ Video section layout using CSS  
-- ✔ Clean and structured CSS files  
-- ✔ Proper folder organization for scalability  
+-  YouTube-like header with logo, search bar, and action icons  
+-  Sidebar layout similar to YouTube navigation  
+-  Video section layout using CSS  
+-  Clean and structured CSS files  
+-  Proper folder organization for scalability  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** – for creating the structure of the webpage  
 - **CSS3** – for styling, layout, and responsiveness  
@@ -39,5 +39,5 @@ No JavaScript or frameworks are used in this project.
 
 ---
 
-## 📂 Folder Structure Explanation
+##  Folder Structure Explanation
 
